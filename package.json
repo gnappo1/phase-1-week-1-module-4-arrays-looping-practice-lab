@@ -1,7 +1,7 @@
 {
   "name": "js-arrays-looping-practice-lab",
   "version": "0.1.0",
-  "description": "Phase 0 JavaScript Lab on Array Looping",
+  "description": "Phase 1 Week 1 JavaScript Lab on Array Looping",
   "main": "index.js",
   "directories": {
     "test": "test"
